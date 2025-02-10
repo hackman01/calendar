@@ -18,7 +18,7 @@ These instructions will help you get the project up and running on your local ma
 1. Clone the repository:
 
 ```bash
-git clone [https://github.com/hackman01/calendar.git](https://www.google.com/search?q=https://github.com/hackman01/calendar.git)  # Replace with your repo URL
+git clone https://github.com/hackman01/calendar.git
 
 cd calendar
 
@@ -44,3 +44,5 @@ GOOGLE_CLIENT_SECRET=your_google_client_secret
 nodemon index.js
 
 ```
+
+This rest api will be accesible on ``` http://localhost:8000/ ``` 
